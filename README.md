@@ -30,14 +30,14 @@ Arguments메뉴에 VM arguments 칸에 -Dfile.encoding=MS949 를 작성하고 Ru
 * 닉네임을 작성한 뒤 연결버튼을 누르면 채팅서버에 입장이 되고, 자기 자신과 접속 중인 유저에게 입장 메세지를 전달한다.
 * 우측 유저 목록에 접속자가 추가된다. <br />
 
-![1 접속]() <br />
+![1접속](https://github.com/HeeYeong91/project_chat1/assets/139057065/84467ec6-1854-48b9-9565-c7b31d4d75fa) <br />
 [목차](#page_facing_up-목차)
 
 ## 2. 모두에게 대화
 * '모두에게' 선택 후 내용을 작성 후 보내기버튼을 누르면 자기 자신을 포함한 접속자 모두에게 메세지를 전달한다.
 * [닉네임] : '채팅내용'으로 화면에 표시한다. <br />
 
-![2 모두에게 대화]() <br />
+![2 모두에게대화](https://github.com/HeeYeong91/project_chat1/assets/139057065/8c393335-6fcd-47c5-8122-ffbbaba51703) <br />
 [목차](#page_facing_up-목차)
 
 ## 3. 다이렉트 메세지 대화
@@ -45,5 +45,5 @@ Arguments메뉴에 VM arguments 칸에 -Dfile.encoding=MS949 를 작성하고 Ru
 * 받는사람은 [닉네임]님 DM 수신 : '채팅내용'으로 화면에 표시한다.
 * 보내는사람은 [닉네임]님에게 DM 전송 : '채팅내용'으로 화면에 표시한다. <br />
 
-![3 다이렉트 메세지 대화]() <br />
+![3 다이렉트메세지대화](https://github.com/HeeYeong91/project_chat1/assets/139057065/aa902dfc-b36c-45ab-a76b-9fea0b0bd704) <br />
 [목차](#page_facing_up-목차)
