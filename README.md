@@ -19,7 +19,7 @@ Arguments메뉴에 VM arguments 칸에 -Dfile.encoding=MS949 를 작성하고 Ru
 예) DM_MESSAGE|보내는사람닉네임|받는사람닉네임|채팅내용
 <br /><br />
 
-:calendar: 프로젝트 기간 : 2023년 5월 23일 <br />
+:calendar: 프로젝트 기간 : 2023년 5월 31일 <br />
 :hammer: Tools : <img src="https://img.shields.io/badge/Eclipse-FE7A16.svg?style=for-the-badge&logo=Eclipse&logoColor=white" /> <br />
 :books: languages : ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white) <br />
 <br />
